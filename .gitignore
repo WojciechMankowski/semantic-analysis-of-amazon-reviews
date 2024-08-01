@@ -10,7 +10,8 @@
 .idea/**/dictionaries
 .idea/**/shelf
 ./dataset/*
-./archive/*
+./dataset/*.csv
+./dataset/archive (1).zip
 # AWS User-specific
 .idea/**/aws.xml
 
